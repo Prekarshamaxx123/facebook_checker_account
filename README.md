@@ -40,4 +40,7 @@ Contoh [nama file: example.txt] :
 cd $HOME/facebook_checker_account
 git pull
 ```
+# Donation
+<img src="img/qr_Latif Harkat_04.12.22_1670130589.png" alt="Donation Qris">
+Hargain Author:v
 Harap Gunakan Dengan Sebijak-bijaknya.
