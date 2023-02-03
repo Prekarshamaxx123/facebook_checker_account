@@ -23,6 +23,7 @@ python app.py
 Masukan akun dengan format user|pass
 Contoh: 1000234567890|bandung
 ```
+<img src="img/Screenshot_20230203-192639_Pydroid 3.jpg" alt="contoh 1">
 #### menu pilihan [2]
 ```
 Simpan file [akun] di dalam folder 'facebook_checker_account'
