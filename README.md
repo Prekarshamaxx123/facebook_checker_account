@@ -1,14 +1,15 @@
 # facebook_checker_account
 a tool for Facebook Checker Account
 ## install for [termux/linux]
-### package & clone
+### install package & clone
 ```
 pkg install python
 pkg install git
 git clone https://github.com/Latip176/facebook_checker_account
 
 ```
-### library / modul [requirements]
+### install library / modul [requirements]
+```bs4, requests```
 ```
 pip install -r requirements.txt
 ```
