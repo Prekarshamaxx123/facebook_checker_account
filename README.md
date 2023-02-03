@@ -35,4 +35,9 @@ Contoh [nama file: example.txt] :
 1000234567890|bagong
 ```
 <img src="img/Screenshot_20230203-192531_Pydroid 3.jpg" alt="contoh 2">\
+### update tool [jika ada updatean]
+```
+cd $HOME/facebook_checker_account
+git pull
+```
 Harap Gunakan Dengan Sebijak-bijaknya.
