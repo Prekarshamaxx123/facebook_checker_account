@@ -1,5 +1,5 @@
 # facebook_checker_account
-a tool for Facebook Chechker Account
+a tool for Facebook Checker Account
 ## install for [termux/linux]
 ### package & clone
 ```
