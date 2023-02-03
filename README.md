@@ -41,4 +41,3 @@ cd $HOME/facebook_checker_account
 git pull
 ```
 Harap Gunakan Dengan Sebijak-bijaknya.
-Ingin kerja sama? Hub: 083870396203 (WhatsApp)
