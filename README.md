@@ -13,12 +13,17 @@ git clone https://github.com/Latip176/facebook_checker_account
 pip install -r requirements.txt
 ```
 ## tutorial
-### menu pilihan [1]
+### menjalankan script
+```
+cd $HOME/facebook_checker_account
+python app.py
+```
+#### menu pilihan [1]
 ```
 Masukan akun dengan format user|pass
 Contoh: 1000234567890|bandung
 ```
-### menu pilihan [2]
+#### menu pilihan [2]
 ```
 Simpan file [akun] di folder 'facebook_checker_account'
 Format file berisi user|pass
