@@ -32,4 +32,5 @@ Contoh [nama file: example.txt] :
 1000234567890|sukabumi
 1000234567890|bagong
 ```
+<img src="img/Screenshot_20230203-192531_Pydroid 3.jpg" alt="contoh 2">
 Harap Gunakan Dengan Sebijak-bijaknya.
