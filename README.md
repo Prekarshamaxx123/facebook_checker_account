@@ -25,7 +25,7 @@ Contoh: 1000234567890|bandung
 ```
 #### menu pilihan [2]
 ```
-Simpan file [akun] di folder 'facebook_checker_account'
+Simpan file [akun] di dalam folder 'facebook_checker_account'
 Format file berisi user|pass
 Contoh [nama file: example.txt] :
 1000234567890|bandung
