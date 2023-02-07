@@ -9,7 +9,7 @@ git clone https://github.com/Latip176/facebook_checker_account
 
 ```
 ### install library / modul [requirements]
-```bs4, requests```
+***bs4, requests***
 ```
 pip install -r requirements.txt
 ```
